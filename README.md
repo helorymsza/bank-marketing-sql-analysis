@@ -15,8 +15,8 @@ The SQLite database (`bank_marketing.db`) is generated locally using the origina
 - Database creation script: `create_db.py`
 
 The database is created automatically by running:
-  ```bash
-  python3 create_db.py```
+   ```bash
+   python3 create_db.py
 
 Main columns include:
 - age
