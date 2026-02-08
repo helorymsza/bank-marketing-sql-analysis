@@ -1,14 +1,3 @@
-## Teste de código recolhível
-
-<details>
-<summary>Clique para abrir</summary>
-
-```sql
-SELECT COUNT(*) FROM bank_marketing;
-
-
-
-
 # Bank Marketing Campaign Analysis (SQL)
 
 ## 📌 Project Overview
