@@ -66,8 +66,11 @@ sqlite3 bank_marketing.db
 
 ## 🛠️ Technologies Used
 SQLite
+
 SQL
+
 Python
+
 Git & GitHub
 
 ## Conclusion
