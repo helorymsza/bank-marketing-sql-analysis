@@ -12,7 +12,7 @@ This project analyzes the results of a Portuguese bank’s marketing campaigns u
 
 ### 1. Clone the repository
 ```bash
-  git clone https://github.com/helorymsza/bank-marketing-sql-analysis.git
+    git clone https://github.com/helorymsza/bank-marketing-sql-analysis.git
 
 ### 2. Navigate to the project folder
 cd bank-marketing-sql-analysis
