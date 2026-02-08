@@ -17,7 +17,7 @@ The SQLite database (`bank_marketing.db`) is generated locally using the origina
 The database is created automatically by running:
 
 ```bash
-python3 create_db.py
+python3 create_db.py´´´
 
 Main columns include:
 - age
@@ -56,24 +56,24 @@ Target variable:
 ## ▶️ How to Run Locally
 1. Clone the repository:
 ```bash
-git clone https://github.com/helorymsza/bank-marketing-sql-analysis.git
+git clone https://github.com/helorymsza/bank-marketing-sql-analysis.git´´´
 
 2. Navigate to the project folder
 ```bash
-cd bank-marketing-sql-analysis
+cd bank-marketing-sql-analysis´´´
 
 3. Create the SQLite database
 ```bash
-pyhton3 create_db.py
+pyhton3 create_db.py´´´
 
 4. Open the SQLite console
 ```bash
-sqlite3 bank_marketing.db
+sqlite3 bank_marketing.db´´´
 
 5. Run analysis queries
 ```sql
 .read exploratory.sql
-.read insights.sql
+.read insights.sql´´´
 
 ## Conclusion
 This project demonstrates how SQL and SQLite can be used to analyze marketing campaign data and extract insights that support business decision-making.
